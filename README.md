@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Haripriya
 
-<!--
-**HaripriyaB-1/HaripriyaB-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sophomore mechanical engineering student at SSN College of Engineering, 
+Chennai. I'm interested in structural analysis and design — currently 
+building projects to get better at both the engineering and the tools.
 
-Here are some ideas to get you started:
+Tools
+Creo Parametric · Ansys Discovery · SimScale · Fusion 360 · Python · Streamlit · Firebase · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning
+- FEA theory — element formulation, mesh convergence, boundary conditions
+- GD&T and engineering drawing standards (ASME Y14.5)
+- CAD surfacing and rendering — Creo advanced modelling, KeyShot
+- Thermodynamics and heat transfer 
+- Mechanics of Materials — beam theory, stress transformations
+- Python and Matlab
+
+
+mail- haripriyab.999@gmail.com
+linkedin - www.linkedin.com/in/haripriya-b-74279a329
+
+
+
